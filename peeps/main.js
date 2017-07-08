@@ -32,7 +32,7 @@ module.exports.loop = function () {
           roleHarvester.run(creep);
       }
 
-
+    }
 
 
 }
